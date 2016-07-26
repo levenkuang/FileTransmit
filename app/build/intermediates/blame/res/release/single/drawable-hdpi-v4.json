@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\develop_space\\FileTransmit\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\file.png",
+        "source": "D:\\develop_space\\FileTransmit\\app\\src\\main\\res\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "D:\\develop_space\\FileTransmit\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\develop_space\\FileTransmit\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\develop_space\\FileTransmit\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\folder.png",
+        "source": "D:\\develop_space\\FileTransmit\\app\\src\\main\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "D:\\develop_space\\FileTransmit\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\web_server.png",
+        "source": "D:\\develop_space\\FileTransmit\\app\\src\\main\\res\\drawable-hdpi\\web_server.png"
+    }
+]

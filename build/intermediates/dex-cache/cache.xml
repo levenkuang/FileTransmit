@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\develop_space\FileTransmit\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_2b4666671cb2d0329b2b4c501d13acee8b3a5183.jar" />
+    </item>
+    <item
+        jar="D:\develop_space\FileTransmit\app\libs\classes-rk.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f39902c1eabc3d259a1d65467bb53c2ca943d048">
+        <dex dex="D:\develop_space\FileTransmit\app\build\intermediates\pre-dexed\release\classes-rk_86a209daa12a4441a0f50b03978e24b360279d7f.jar" />
+    </item>
+
+</items>

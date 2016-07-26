@@ -1,0 +1,8 @@
+-keep class com.zunidata.filetransmit.FilesViewActivity { <init>(); }
+-keep class com.zunidata.filetransmit.MainActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

@@ -1,0 +1,30 @@
+-injars 'D:\develop_space\FileTransmit\app\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'D:\develop_space\FileTransmit\app\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'D:\Android\android-sdk-windows\build-tools\23.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'D:\develop_space\FileTransmit\app\build\intermediates\multi-dex\release\components.flags'
+
+
+-keep class com.zunidata.filetransmit.FilesViewActivity {
+    <init>();
+}
+
+-keep class com.zunidata.filetransmit.MainActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

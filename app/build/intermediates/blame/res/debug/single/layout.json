@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\develop_space\\FileTransmit\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_view.xml",
+        "source": "D:\\develop_space\\FileTransmit\\app\\src\\main\\res\\layout\\item_view.xml"
+    },
+    {
+        "merged": "D:\\develop_space\\FileTransmit\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_view.xml",
+        "source": "D:\\develop_space\\FileTransmit\\app\\src\\main\\res\\layout\\file_view.xml"
+    },
+    {
+        "merged": "D:\\develop_space\\FileTransmit\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\develop_space\\FileTransmit\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
